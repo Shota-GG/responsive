@@ -38,3 +38,65 @@ ul {
 .mainphoto img {
     width: 100%;
 }
+.satauri1 {
+    font-size: 40px;
+    padding-top: 138px;
+    padding-bottom: 70px;
+    padding-left: 115px;
+}
+.statiebi {
+    width: 92%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.sec1 {
+    width: 25%;
+    margin: 0 auto;
+}
+.sec2 {
+    width: 25%;
+    margin: 0 auto;
+}
+.sec3 {
+    width: 25%;
+    margin: 0 auto;
+}
+.sec1 img {
+    width: 100%;
+}
+.sec2 img {
+    width: 100%;
+}
+.sec3 img {
+    width: 100%;
+}
+.statiebi h3 {
+    font-size: 30px;
+}
+.statiebi p {
+    font-size: 18px;
+}.statiebi span {
+    font-size: 24px;
+}
+h3 {
+    padding-top: 20px;
+    padding-left: 12px;
+    padding-bottom: 33px;
+}
+p {
+    padding-left: 12px;
+    padding-bottom: 73px;
+}
+span {
+    padding-top: 73px;
+    padding-left: 300px;
+}
+.loadmore {
+    font-size: 30px;
+    text-align: center;
+    padding-top: 56px;
+    padding-bottom: 53px;
+}
+
