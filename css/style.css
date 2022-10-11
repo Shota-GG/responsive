@@ -1,0 +1,28 @@
+.container {
+    max-width: 1920px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+}
+header {
+    width: 85%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav {
+    width: 90%;
+}
+ul {
+    font-size: 20px;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+.search {
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+}
