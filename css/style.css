@@ -85,13 +85,9 @@ h3 {
     padding-left: 12px;
     padding-bottom: 33px;
 }
-p {
-    padding-left: 12px;
-    padding-bottom: 73px;
-}
 span {
     padding-top: 73px;
-    padding-left: 300px;
+    
 }
 .loadmore {
     font-size: 30px;
@@ -99,4 +95,102 @@ span {
     padding-top: 56px;
     padding-bottom: 53px;
 }
-
+.news {
+    width: 92%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding-bottom: 68px;
+}
+.sec4 {
+    width: 25%;
+    margin: 0 auto;
+}
+.sec5 {
+    width: 25%;
+    margin: 0 auto;
+}
+.sec6 {
+    width: 25%;
+    margin: 0 auto;
+}
+.sec4 img {
+    width: 100%;
+}
+.sec5 img {
+    width: 100%;
+}
+.sec6 img {
+    width: 100%;
+}
+.sec1 p {
+    padding-left: 12px;
+    padding-bottom: 73px;
+}
+.sec2 p {
+    padding-left: 12px;
+    padding-bottom: 73px;
+}
+.sec3 p {
+    padding-left: 12px;
+    padding-bottom: 73px;
+}
+.sec4 p {
+    padding-left: 12px;
+    padding-bottom: 73px;
+}
+.sec5 p {
+    padding-left: 12px;
+    padding-bottom: 73px;
+}
+.sec6 p {
+    padding-left: 12px;
+    padding-bottom: 73px;
+}
+.news h3 {
+    font-size: 30px;
+}
+.news p {
+    font-size: 18px;
+}.news span {
+    font-size: 24px;
+}
+footer {
+    background-color: #2E2E2E;
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 56px;
+    padding-bottom: 56px;
+}
+.contact p {
+    color: #F2F2F2;
+}
+.address p {
+    color: #F2F2F2;
+}
+.logo {
+    width: 10%;
+    margin: 0 auto;
+}
+.contact {
+    width: 10%;
+    margin: 0 auto;
+}
+.address {
+    width: 10%;
+    margin: 0 auto;
+}
+.logos {
+    width: 10%;
+    margin: 0 auto;
+}
+.p1 {
+    font-size: 20px;
+}
+.p2 {
+    font-size: 13px;
+}
