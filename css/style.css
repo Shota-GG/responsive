@@ -10,6 +10,8 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding-top: 52px;
+    padding-bottom: 60px;
 }
 nav {
     width: 90%;
@@ -25,4 +27,14 @@ ul {
     width: 50%;
     display: flex;
     justify-content: space-around;
+}
+.mainphoto {
+    width: 85%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainphoto img {
+    width: 100%;
 }
